@@ -692,10 +692,10 @@ https://www.sodah.de
             b.appendChild(a);
             d("#" + c + "backgroundimage").css({
                 position: "absolute",
-                left: "0px",
-                top: "0px",
-                height: "100%",
-                width: "100%",
+                left: "50px",
+                top: "50px",
+                height: "120px",
+                width: "120px",
                 "-webkit-filter": "blur(10px)",
                 filter: "blur(10px)",
                 opacity: "0.1"
@@ -769,10 +769,7 @@ https://www.sodah.de
                 "background-repeat": "no-repeat",
                 "background-size": "cover"
             });
-            "circle" == Da && (d("#" + c + "coverwrapper, #" + c + "coverwrapper1, #" + c + "coverwrapper2").css({
-                "border-radius": "10%"
-            }), d("#" + c + "backgroundimage, #" + c + "backgroundimage1, #" + c + "backgroundimage2").css({
-                "border-radius": "10%"
+            
             }))
         }
 
