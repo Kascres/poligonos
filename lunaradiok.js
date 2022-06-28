@@ -734,7 +734,7 @@ https://www.sodah.de
             d("#" + c + "coverwrapper").css({
                 position: "absolute",
                 overflow: "hidden",
-                background: "rgba(" + n(x).r + ", " + n(x).g + ", " + n(x).b + ", 0.0)"
+                background: "rgba(" + n(x).r + ", " + n(x).g + ", " + n(x).b + ", 0.1)"
             }).on("click",
                 function() {
                     "" != pa && window.open(pa)
