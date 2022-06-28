@@ -692,8 +692,8 @@ https://www.sodah.de
             b.appendChild(a);
             d("#" + c + "backgroundimage").css({
                 position: "absolute",
-                left: "50px",
-                top: "50px",
+                left: "0px",
+                top: "0px",
                 height: "120px",
                 width: "120px",
                 "-webkit-filter": "blur(10px)",
@@ -705,8 +705,8 @@ https://www.sodah.de
             a.appendChild(h);
             d("#" + c + "backgroundimage1").css({
                 position: "absolute",
-                left: "50px",
-                top: "50px",
+                left: "0px",
+                top: "0px",
                 height: "120px",
                 width: "120px",
                 transition: "opacity 1s",
@@ -719,8 +719,8 @@ https://www.sodah.de
             a.appendChild(h);
             d("#" + c + "backgroundimage2").css({
                 position: "absolute",
-                left: "50px",
-                top: "50px",
+                left: "0px",
+                top: "0px",
                 height: "120px",
                 width: "120px",
                 transition: "opacity 1s",
@@ -744,8 +744,8 @@ https://www.sodah.de
             a.appendChild(h);
             d("#" + c + "coverwrapper1").css({
                 position: "absolute",
-                left: "50px",
-                top: "50px",
+                left: "0px",
+                top: "0px",
                 height: "120px",
                 width: "120px",
                 overflow: "hidden",
@@ -759,8 +759,8 @@ https://www.sodah.de
             a.appendChild(h);
             d("#" + c + "coverwrapper2").css({
                 position: "absolute",
-                left: "50px",
-                top: "50px",
+                left: "0px",
+                top: "0px",
                 height: "120px",
                 width: "120px",
                 overflow: "hidden",
